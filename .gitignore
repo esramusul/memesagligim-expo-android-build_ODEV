@@ -40,7 +40,7 @@ app-example
 
 # generated native folders
 /ios
-/android
+
 # Android build outputs / caches
 android/.gradle/
 android/app/build/
